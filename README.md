@@ -36,5 +36,5 @@ This fork adds improvements while keeping the simplicity of the original extensi
 
 ## License
 
-Original code by **Saptarshi Dey** — MIT License.  
-This fork (enhanced version) is also licensed under the **MIT License**.
+Copyright (c) 2026 Saptarshi Dey
+Modifications Copyright (c) 2026 Anen135
